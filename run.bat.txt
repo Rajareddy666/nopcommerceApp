@@ -1,0 +1,2 @@
+rem pytest -v -s -m "sanity" --html=C:\Users\hp\PycharmProjects\nopommerceApp\Reports\sanity.
+html --browser chrome
